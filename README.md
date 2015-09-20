@@ -23,10 +23,7 @@ If guess < target, min = guess +1
 guess again  
 
 ### Usage
-"""
-node binarySearch.js
-
-"""
+`Node binarySearch.js`
 
 ## randomSearch.js
 
@@ -51,10 +48,7 @@ If guess < target, min = guess +1
 guess again  
 
 ### Usage
-"""
-node randomSearch.js
-
-"""
+`node randomSearch.js`
 
 ## binary_search.exs
 Recursive guessing game algorithm implemented in Elixir. 
@@ -78,7 +72,4 @@ If guess < target, min = guess +1
 guess again
 
 ### Usage
-"""
-elixir binary_search.exs
-
-"""
+`elixir binary_search.exs`
