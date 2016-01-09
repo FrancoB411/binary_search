@@ -4,14 +4,15 @@
   "description": "",
   "main": "pascal.js",
   "dependencies": {
+    "jasmine": "^2.4.1",
     "lodash": "^3.10.1"
   },
   "devDependencies": {
     "watch": "^0.17.1"
   },
   "scripts": {
-    "test": "test",
-    "watch": "watch 'node pascal.js'"
+    "test": "jasmine",
+    "watch": "watch 'npm run test' --ignoreDotFiles"
   },
   "author": "",
   "license": "ISC"
