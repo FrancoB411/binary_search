@@ -5,7 +5,7 @@
   "main": "pascal.js",
   "dependencies": {
     "jasmine": "^2.4.1",
-    "lodash": "^3.10.1"
+    "lodash": "~> 4.17.11"
   },
   "devDependencies": {
     "watch": "^0.17.1"
